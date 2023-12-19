@@ -1,3 +1,35 @@
+Harmonic Mixing: Next
+===
+
+A JavaScript tool to help you find music while djing.
+
+Updated away from the [original project](https://github.com/anjunatl/harmonic-mixing) written with [create-react-app](https://www.linkedin.com/pulse/end-era-react-team-longer-recommends-create-app-vivek-dwivedi) towards [nextjs](https://react.dev/learn/start-a-new-react-project#nextjs)
+
+## Setup
+
+* `npm install` to install the dependencies
+
+## Development
+
+* `npm run dev` to start the dev environment
+* `npm run testdev` to run the Jest unit tests in watch mode (todo: test this and the other test commands)
+
+## Tests
+
+* `npm test` to run the Jest unit tests & generate a code coverage report
+* `npm run coverage` to see the code coverage report
+
+## Todo
+
+* [x] Add natural key representation to output
+* [x] Convert this project to nextjs & continue from there
+* [ ] Add natural key input mode
+* [ ] Add Traktor key representation
+
+
+Original NextJS Documentation
+===
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
